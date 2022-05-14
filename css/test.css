@@ -1,0 +1,22 @@
+*{
+    font-family: 'Nunito', sans-serif;
+    margin:0; padding:0;
+    outline: none; border:none;
+    transition: all .2s linear
+}
+
+.pytjet-a {
+    margin: 4rem;
+}
+
+.headerinjo{
+    text-align: center;
+    margin: 2rem;
+}
+.pytjet-a span {
+    text-decoration: underline;
+}
+
+.pergjigjjet {
+    font-weight: bold;
+}
